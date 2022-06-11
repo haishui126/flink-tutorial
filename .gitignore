@@ -3,6 +3,7 @@ target/
 !**/src/test/**
 
 *.txt
+!input/**
 dependency-reduced-pom.xml
 
 ### log ###
